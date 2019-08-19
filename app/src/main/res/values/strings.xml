@@ -2,5 +2,5 @@
     <string name="app_name">Hello Android</string>
     <string name="text_message">Enter a message.</string>
     <string name="push_message">Send.</string>
-    <string name="text_view">TextView</string>
+    <string name="text_view">Hello, Android!</string>
 </resources>
